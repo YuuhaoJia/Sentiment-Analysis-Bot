@@ -170,6 +170,8 @@ class AnnoteFinder(object):
         for x, y, a in annotesToDraw:
             self.drawAnnote(self.ax, x, y, a)
 
+plt.rcParams["font.family"] = "sans-serif"
+            
 fig, ax = plt.subplots()
 ax.set_title("Avg Sentiment Score vs % Change for the Most Active Stocks Today")
 ax.set_xlabel("Average Sentiment Score")
