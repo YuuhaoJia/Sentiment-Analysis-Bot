@@ -15,11 +15,11 @@ Utilizes a clustering algorithm to group the 100 most traded US stocks daily bas
 
 ### Sample output (09/09/2022)
 
-![seab1](https://user-images.githubusercontent.com/112993711/189455280-1312ea0e-ec7e-4b75-aa7d-5b7161b1ad7c.jpeg)
+![seab2](https://user-images.githubusercontent.com/112993711/189456189-27a74338-c8df-4200-91f7-300e3dc5fe14.jpeg)
 
 ### Interactive plot enables user to identify companies located in desireable cluster(s)
 
-![SeAfig4](https://user-images.githubusercontent.com/112993711/189454348-977c826d-6207-4e34-9d50-8796fb61b79d.png)
+![seab3](https://user-images.githubusercontent.com/112993711/189456194-2a08ce88-2c0b-4bdd-a0b3-2803fb0d13c5.jpeg)
 
 # Contact
 
