@@ -13,7 +13,8 @@ Utilizes a clustering algorithm to group the 100 most traded US stocks daily bas
 
 # Demo
 
-![SeAfig3](https://user-images.githubusercontent.com/112993711/189453897-24248dc1-9c9a-40da-aafa-024d0488f2fa.png)
+![SeAfig3](https://user-images.githubusercontent.com/112993711/189453978-dae3dcb9-e6e0-4b55-b59c-a52ea42b2761.png)
+
 
 # Contact
 
