@@ -25,6 +25,6 @@ Utilizes a clustering algorithm to group the 100 most traded US stocks daily bas
 
 Yuhao Jia - yuhaoj10@gmail.com
 
-Double Degree BMath & BBA 2025 Candidate
+Bachelor of Computer Science (BCS) 2025 Candidate
 
 University of Waterloo 
