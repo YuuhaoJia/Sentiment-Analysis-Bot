@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Bot
+# Machine Learning Model for Stock Returns based on Sentiment
 Utilizes a clustering algorithm to group the 100 most traded US stocks daily based on average sentiment score (polarity) and % change. Employs elbow method to determine optimal number of clusters
 
 ### Built using
